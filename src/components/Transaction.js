@@ -13,7 +13,7 @@ export default function Transaction({transactions: {id,text,amount}}) {
     return (
         <li className={amount > 0 ? "plus" : "minus"}>
             {text} <span>{sign}R$ {Math.abs(amount).toFixed(2)}</span>
-            <button className="delete-btn" onClick={() => {alert(id);deleteTransaction(id)}}>x</button>
+            <button className="delete-btn" onClick={() => deleteTransaction(id)}>x</button>
         </li>
     )
 }
