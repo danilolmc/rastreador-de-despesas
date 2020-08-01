@@ -15,8 +15,6 @@ export default function Expenses() {
         .filter(({ amount }) => amount < 0)
         .reduce((acc, { amount }) => (acc + amount), 0) * -1).toFixed(2);
 
-    console.log(receita, despesa)
-
     return (
         <div className="inc-exp-container">
             <div>
