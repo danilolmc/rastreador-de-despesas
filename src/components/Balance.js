@@ -12,7 +12,7 @@ export default function Balance() {
 
     return (
         <>
-            <h4>Your Balance</h4>
+            <h4>Seu saldo</h4>
             <h1 id="balance">R$ {total}</h1>
         </>
     )

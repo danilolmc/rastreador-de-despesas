@@ -36,16 +36,16 @@ export default function AddTransaction() {
 
     return (
         <>
-            <h3>Add new transaction</h3>
+            <h3>Adicionar nova transacão</h3>
             <form onSubmit={onSubmit}>
                 <div className="form-control">
-                    <label htmlFor="text">Text</label>
+                    <label htmlFor="text">Descrição</label>
                     <input type="text" id="text" value={text} onChange={InserirTexto} placeholder="Enter text..." />
-                </div>
+                </div><br/>
                 <div className="form-control">
                     <label htmlFor="amount"
-                    >Amount <br />
-            (negative - expense, positive - income)</label
+                    >Quantia <br /><br/>
+            (sinal negativo - gasto, sinal positivo - renda)</label
                     >
                     <input type="number" id="amount" value={amount} onChange={InserirQuantidade} placeholder="Enter amount..." />
                 </div>
