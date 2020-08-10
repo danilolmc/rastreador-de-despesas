@@ -72,7 +72,7 @@ Depois que o merge da sua pull request ser concluido, você pode deletar a branc
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DaniloLima122/rastreador-de-despesas/blob/master/LICENSE).
 
 
 Made with ♥ by Danilo Lima
