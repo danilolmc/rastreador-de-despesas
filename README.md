@@ -1,4 +1,19 @@
-## Rastreador de despesas
+# Rastreador de despesas
+
+<br/>
+
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=43BD15&labelColor=535353" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=43BD15&labelColor=535353">
+
+  <img alt="languages" src="https://img.shields.io/github/languages/count/DaniloLima122/rastreador-de-despesas?color=43BD15">
+
+</p>
+
+
+<br/>
+
 
 <img src="./tracker.png"/>
 
@@ -18,30 +33,30 @@ Primeiro, certifique-se que você possui o [Node.js](https://nodejs.org/en/) e o
 Com eles instalados acesse o seu terminal/cmd e clone o projeto:
 
 ```bash
-git clone https://github.com/DaniloLima122/rastreador-de-despesas.git
+$ git clone https://github.com/DaniloLima122/rastreador-de-despesas.git
 ```
 
 Depois acesse a pasta do projeto e instale as dependências seguindo um dos seguintes passos:
 
 ```bash
-npm install
+$ npm install
 ```
 ou
 
 ```bash
-yarn install
+$ yarn install
 ```
 
 Agora rode o projeto em modo de desenvolvimento digitando no terminal:
 
 ```bash
-npm start
+$ npm start
 ```
 
 ou
 
 ```bash
-yarn start
+$ yarn start
 ```
 
 ## Como contribuir?
