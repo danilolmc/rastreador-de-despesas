@@ -1,6 +1,6 @@
 ## Rastreador de despesas
 
-<img src="./tracker.png"/>
+<img src="https://github.com/DaniloLima122/rastreador-de-despesas/blob/master/tracker.PNG"/>
 
 ## Projeto
 
